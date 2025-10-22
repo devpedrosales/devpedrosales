@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Pedro Sales  
 
 💻 Desenvolvedor Backend em **C# / .NET**  
-🚀 Apaixonado por tecnologia, APIs e soluções que facilitam o dia a dia das pessoas.  
-🎯 Atualmente focado em projetos de integração e dados em tempo real.  
+🚀 Apaixonado por tecnologia, APIs e soluções inteligentes para o dia a dia.  
+🎯 Sempre buscando aprimorar minhas habilidades e construir projetos que agreguem valor real.  
 
 ---
 
@@ -11,9 +11,9 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -21,9 +21,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| 🚦 **Cidade Ágil** | Backend ASP.NET Core com APIs de Clima, Trânsito e Combustível. | C#, .NET, API TomTom |
-| 🏢 **Central de Ocorrências** | Sistema para registro e gestão de ocorrências em condomínios e empresas. | C#, .NET, SQL |
-| 🔧 **APIs de Integração** | Desenvolvimento de microserviços e automações REST. | C#, ASP.NET Core, JSON, HTTPClient |
+| 💈 [**BarberShop API**](https://github.com/seuusuario/BarberShopApi) | API REST desenvolvida em C#/.NET para gerenciamento de agendamentos e clientes em barbearias. | C#, .NET, SQL Server |
+| 🚗 [**Aluga API**](https://github.com/seuusuario/AlugaApi) | API de aluguel de veículos e motos, com autenticação e integração com banco de dados. | C#, ASP.NET Core, EF Core |
+| 🗃️ [**Desafio Banco de Dados**](https://github.com/seuusuario/DesafioBancoDeDados) | Projeto feito inteiramente em SQL, com modelagem, consultas e relacionamentos entre tabelas. | SQL Server |
 
 ---
 
@@ -45,5 +45,6 @@
 
 ---
 
-⭐ **"Transformando ideias em código e código em soluções."**
+⭐ **“Transformando ideias em código e código em soluções.”**
+
 
